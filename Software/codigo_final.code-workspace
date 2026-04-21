@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "CarroClean",
+			"path": "CarroClean"
+		},
+		{
+			"name": "TAGClean",
+			"path": "TAGClean"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
